@@ -1,0 +1,6 @@
+{
+  "name": "MiniApps Learn English",
+  "description": "Interactive English learning mini-app by levels. Practice with custom cards, listen to accurate pronunciations, generate translations using Gemini API, and test capability via engaging quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
